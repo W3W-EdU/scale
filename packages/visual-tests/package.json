@@ -21,6 +21,6 @@
     "jest-puppeteer-docker": "^1.4.2",
     "puppeteer": "^13.0.0",
     "puppeteer-extensions": "^1.0.3",
-    "rimraf": "^3.0.2"
+    "rimraf": "^4.3.1"
   }
 }
